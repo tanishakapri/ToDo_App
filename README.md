@@ -72,3 +72,6 @@ todo-app/
 │── .gitignore
 
 ```
+
+## Live Demo  
+🔗 [View Deployed App](https://todo-app.vercel.app)
