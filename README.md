@@ -74,4 +74,4 @@ todo-app/
 ```
 
 ## Live Demo  
-🔗 [View Deployed App](https://todo-app.vercel.app)
+🔗 [View Deployed App](https://to-do-app-tau-mauve-33.vercel.app/)
